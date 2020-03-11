@@ -1,0 +1,7 @@
+*.o
+*.so
+/test
+/libprotobuf-mutator/*
+/external/*
+/build/*
+/out/*
